@@ -1,0 +1,8 @@
+Input: My order arrived very late
+Predicted Sentiment: [0.3313538  0.33416754 0.3344787 ]
+
+Input: Excellent service and fast delivery
+Predicted Sentiment: [0.3313538  0.33416754 0.3344787 ]
+
+Input: The product quality is terrible
+Predicted Sentiment: [0.3313538  0.33416754 0.3344787 ]
